@@ -1,0 +1,7 @@
+flask>=2.0.0
+transformers>=4.30.0
+torch>=2.0.0
+sentencepiece>=0.1.99
+numpy>=1.21.0
+tqdm>=4.64.0
+huggingface-hub>=0.16.0
