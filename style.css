@@ -1,0 +1,39 @@
+body {
+    background: linear-gradient(120deg,#667eea,#764ba2);
+    font-family: Arial;
+    color: white;
+}
+
+.container {
+    width: 50%;
+    margin: 100px auto;
+    background: rgba(0,0,0,0.3);
+    padding: 30px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+textarea {
+    width: 90%;
+    height: 120px;
+    border-radius: 8px;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px 25px;
+    font-size: 16px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+}
+
+.result {
+    margin-top: 20px;
+    background: rgba(255,255,255,0.2);
+    padding: 15px;
+    border-radius: 10px;
+}
